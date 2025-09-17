@@ -2,7 +2,7 @@
 
 ## Objective
 Perform customer segmentation based on income and spending behavior using **K-Means clustering**.  
-The goal is to identify groups of customers that share similar characteristics, enabling targeted marketing strategies.
+The goal is to identify groups of customers who share similar characteristics, enabling the development of targeted marketing strategies.
 
 ## Dataset
 - **Source**: Mall Customers Dataset (Kaggle or similar)  
